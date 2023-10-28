@@ -1,0 +1,6 @@
+name: savesif
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - cryptography=41.0
