@@ -1,5 +1,7 @@
 # Souls Givifier
 
+## The below text is from the original repo, while this fork is created to beat Sif without killing him. No killing of Sif please.
+
 This tool edits save-game files from various FromSoftware games, and grants 1 billion souls/runes in order to max out all stats (STR = 99, DEX = 99, etc.).  This lowers the bar so more casual players can enjoy the phenomenal artwork and storytelling these games are known for.
 
 The following games are currently supported (*PC only*):
